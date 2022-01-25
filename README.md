@@ -1,2 +1,2 @@
 # calendario-js
- Aplicación web para practicas javascript.
+ Aplicación web para crear un calendario con eventos usando JavaScript.
